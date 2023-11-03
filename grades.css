@@ -1,0 +1,122 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container .student_grades {
+  padding: 1rem;
+}
+.container .student_grades input {
+  padding: 1rem;
+  width: 30vw;
+  border-radius: 0.4rem;
+  border: 1px solid #333;
+}
+.container .student_grades button {
+  padding: 1rem;
+  margin: 0px 5rem;
+  width: 10vw;
+  background-color: rgb(226, 165, 86);
+  border-radius: 0.4rem;
+  border: 1px solid antiquewhite;
+}
+.container .table {
+  padding: 1rem;
+}
+.container table, .container tr, .container th, .container td {
+  width: 40vw;
+  border: 1px solid rgb(226, 165, 86);
+  border-collapse: collapse;
+  padding: 1rem;
+}
+.container .student_grades p {
+  padding: 1rem 3rem;
+}
+.container .student_grades a {
+  margin-top: 2rem;
+  text-decoration: none;
+  margin: 0px 2rem;
+}
+.container .btn {
+  padding: 1rem;
+  margin: 0px 1rem;
+  width: 8vw;
+  background-color: rgb(226, 165, 86);
+  border-radius: 0.4rem;
+  border: 1px solid antiquewhite;
+}
+.container h1 {
+  color: white;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  text-shadow: 2px 2px rgb(226, 165, 86);
+  padding: 2rem;
+}
+.container .all {
+  background-image: url("img/real.jpg");
+  height: 100vh;
+  width: 100vw;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.container .all .link {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 7rem;
+}
+.container .all .link button {
+  background-color: rgb(226, 165, 86);
+  color: #fff;
+  border-radius: 0.4rem;
+  border: 1px solid rgb(226, 165, 86);
+  padding: 1.4rem;
+}
+.container .all .link button a {
+  color: #fff;
+  font-size: 1.2rem;
+  text-decoration: none;
+}
+.container .all .text p {
+  font-size: 2rem;
+  text-align: center;
+  margin-top: 7rem;
+}
+.container .all .text p .link a {
+  text-align: center;
+  color: #fff;
+}
+.container .link button:hover {
+  background-color: rgb(230, 54, 54);
+  transition: 1s ease-in-out;
+}
+.container .student_portal {
+  padding: 1rem;
+}
+.container .student_portal form {
+  padding: 1rem;
+}
+.container .student_portal form input {
+  width: 30vw;
+  padding: 1rem;
+  border: 1px solid rgb(226, 165, 86);
+  border-radius: 0.4rem;
+}
+.container .student_portal form button {
+  background-color: rgb(226, 165, 86);
+  color: #fff;
+  border: 1px solid rgb(226, 165, 86);
+  padding: 1.2rem;
+  width: 20vw;
+  border-radius: 0.4rem;
+  transition: 1s ease-in-out rgb(189, 93, 93);
+}
+
+table, tr, th, td {
+  width: 40vw;
+  border: 1px solid rgb(226, 165, 86);
+  border-collapse: collapse;
+  padding: 1rem;
+}/*# sourceMappingURL=grades.css.map */
