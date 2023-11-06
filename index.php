@@ -17,7 +17,7 @@
         adipisicing elit. Dignissimos, autem corporis <br>
         ad accusantium ipsum adipisci, provident vitae <br>
         sapiente ab dolor, beatae velit? Laudantium odio <br>
-         quam asperiores, fugit maxime sit sed!</p>
+         quam asperiores, fugit maxime sit sed!</p> 
       </div>
       <div class="link">
       <button><a href="result.php">Grade students</a></button>
