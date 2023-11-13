@@ -20,7 +20,7 @@
          quam asperiores, fugit maxime sit sed!</p> 
       </div>
       <div class="link">
-      <button><a href="result.php">Grade students</a></button>
+      <button><a href="result.php">Grade students</a></button> 
       <button><a href="portal.php">Check Your Result Here</a></button>
       </div>
     </div>
