@@ -40,7 +40,7 @@ if(isset($_POST['submit_form'])){
     <th>BFN</th>
     <th>MTH</th>
     <th>MKT</th>
-    <th>CCPG</th>
+    <th>CCPG</th> 
   </tr>
   <tr>
     <td><?php echo $row['name']; ?></td>
