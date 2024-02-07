@@ -11,7 +11,7 @@
     <div class="all"> 
       <div class="head">
         <h1>GIGSTECH FIRST SEMESTER EXAMINATION RESULTS</h1>
-      </div>
+      </div> 
       <div class="text">
         <p>Lorem ipsum, dolor sit amet consectetur <br>
         adipisicing elit. Dignissimos, autem corporis <br>
