@@ -19,7 +19,7 @@
       <button type="submit" name="submit">Submit</button>
       </form>
      <p><a href="show.php">View students result</a></p>
-    </div>
+    </div> 
   </div>
 </body>
 </html>
