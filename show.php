@@ -9,7 +9,7 @@
 </head>
 <body>
   <div class="container">
-    <div class="table">
+    <div class="table"> 
       <table>
         <tr>
           <th>Student Name</th>
