@@ -7,7 +7,7 @@
   <title>Document</title>
 </head>
 <body>
-  <div class="container">
+  <div class="container"> 
     <div class="student_grades">
       <form action="" method="POST">
     STD Names:<input type="text" name="name" placeholder="enter student name" required><br><br>
