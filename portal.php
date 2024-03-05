@@ -8,7 +8,7 @@
   <title>portal</title>
 </head>
 <body> 
-  <div class="container">
+  <div class="container"> 
     <div class="student_portal">
       <h1>ENTER YOUR NAME TO CHECK YOUR RESULT</h1>
     <center><form action="" method="POST">
