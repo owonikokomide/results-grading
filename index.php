@@ -7,7 +7,7 @@
   <title>Document</title> 
 </head>    
 <body>          
-  <div class="container"> 
+  <div class="container">  
     <div class="all"> 
       <div class="head">
         <h1>GIGSTECH FIRST SEMESTER EXAMINATION RESULTS</h1>
