@@ -12,7 +12,7 @@
       <form action="" method="POST">
     STD Names:<input type="text" name="name" placeholder="enter student name" required><br><br>
     GNS Score:<input type="text" name="gns" placeholder="enter student score" required><br><br>
-    CBT Score:<input type="text" name="cbt" placeholder="enter student score" required><br><br>
+    CBT Score:<input type="text" name="cbt" placeholder="enter student score" required><br><br> 
     BFN Score:<input type="text" name="bfn" placeholder="enter student score" required><br><br>
     MTH Score:<input type="text" name="mth" placeholder="enter student score" required><br><br>
     MKT Score:<input type="text" name="mtk" placeholder="enter student score" required><br><br>
