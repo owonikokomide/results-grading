@@ -10,7 +10,7 @@
 <body> 
   <div class="container"> 
     <div class="student_portal">
-      <h1>ENTER YOUR NAME TO CHECK YOUR RESULT</h1>
+      <h1>ENTER YOUR NAME TO CHECK YOUR RESULT</h1> 
     <center><form action="" method="POST">
       <input type="text" name="student" placeholder="Enter student name to check result"> 
       <button type="submit" class="btns" name="submit_form">Submit</button>
