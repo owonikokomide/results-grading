@@ -14,7 +14,7 @@
         <tr>
           <th>Student Name</th>
           <th>GNS</th>
-          <th>CBT</th>
+          <th>CBT</th> 
           <th>BFN</th>
           <th>MTH</th>
           <th>MKT</th>
