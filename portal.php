@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>portal</title>
 </head> 
-<body> 
+<body>  
   <div class="container"> 
     <div class="student_portal">
       <h1>ENTER YOUR NAME TO CHECK YOUR RESULT</h1> 
