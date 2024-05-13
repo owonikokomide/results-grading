@@ -9,7 +9,7 @@
 <body> 
   <div class="container"> 
     <div class="student_grades">
-      <form action="" method="POST">
+      <form action="" method="POST"> 
     STD Names:<input type="text" name="name" placeholder="enter student name" required><br><br>
     GNS Score:<input type="text" name="gns" placeholder="enter student score" required><br><br>
     CBT Score:<input type="text" name="cbt" placeholder="enter student score" required><br><br> 
