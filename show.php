@@ -16,7 +16,7 @@
           <th>GNS</th>
           <th>CBT</th> 
           <th>BFN</th>
-          <th>MTH</th>
+          <th>MTH</th> 
           <th>MKT</th>
           <th>Student CCPG</th>
         </tr>
