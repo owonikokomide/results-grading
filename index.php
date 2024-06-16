@@ -10,7 +10,7 @@
   <div class="container">  
     <div class="all"> 
       <div class="head">
-        <h1>GIGSTECH FIRST SEMESTER EXAMINATION RESULTS</h1>
+        <h1>GIGSTECH FIRST SEMESTER EXAMINATION RESULTS</h1> 
       </div> 
       <div class="text">
         <p>Lorem ipsum, dolor sit amet consectetur <br>
