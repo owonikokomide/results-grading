@@ -8,7 +8,7 @@
   <title>Results</title>
 </head> 
 <body>  
-  <div class="container">
+  <div class="container"> 
     <div class="table">  
       <table>
         <tr>
